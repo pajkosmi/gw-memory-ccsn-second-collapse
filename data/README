@@ -1,0 +1,14 @@
+for rot*txt files
+
+x - distance from rotation axis [cm] (strictly positive)
+
+y - distance above or below equator[cm]
+
+velx - x velocity [cm/s]
+
+vely - y velocity [cm/s]
+
+velz - rotational velocity [cm/s] (to convert to angular velocity divide by the 
+ lever arm, x, to get units of 1 / s
+
+density - rest mass density [g/cm^3]
